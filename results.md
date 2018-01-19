@@ -49,7 +49,7 @@ With a 5 msec wait, the jitter characteristics are even more emphasized.  The co
 ![test image](images/TEK00010.PNG)
 ![test image](images/TEK00011.PNG)
 
-##Java Scheduled Task
+## Java Scheduled Task
 In an attempt to get better periodic consistency, I tested setting the output using the built in Timer class to schedule a transfer at particular periods
 
 ```Java
